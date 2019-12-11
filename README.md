@@ -1,4 +1,3 @@
 # Quiz-App
-
-    Quiz Application that use html , css , javascript and using **Api** for getting question from 
-    [open trivia !](http://https://opentdb.com) 
+Quiz Application that use Html , Css , Javascript and using **Api** for getting questions from
+[Ooen Trivia DB!](http://https://opentdb.com/)
